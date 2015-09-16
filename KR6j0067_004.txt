@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:25:12.766873
+#+DATE: 2015-08-30 20:25:15.410087
 #+TITLE: 妙臂菩薩所問經
 #+PROPERTY: CBETA_ID T18n0896
 #+PROPERTY: ID KR6j0067
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 896
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0067_T_000-0746b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0067_T_004-0757c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 妙臂菩薩所問經卷第四¶
+妙臂菩薩所問經卷第四¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 傳教大師臣法天奉　詔譯¶
 
-11分別諸部分
-:PROPERTIES:
-:head: 分別諸部分第十一
-:END:
-¶
+分別諸部分第十一¶
 
 復次我今於持明藏。分別佛菩薩等。乃至諸¶
 部所說真言印契等。如來所說三俱胝五洛¶
@@ -98,11 +93,7 @@
 言印契。并曼拏羅儀軌等。可依法受持。若違¶
 本教。不唯真言不得成就。亦乃自招過咎。¶
 
-12說八法分
-:PROPERTIES:
-:head: 《妙臂菩薩所問經》說八法分第十二
-:END:
-¶
+《妙臂菩薩所問經》說八法分第十二¶
 
 復次成就之法總有八種。所謂成真言法。成¶
 長年法。藥成就法。出伏藏法。入修羅宮法。合¶
