@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 妙臂菩薩所問經
+#+DATE: 2015-08-30 20:25:13.139536
+#+PROPERTY: JUAN 0
